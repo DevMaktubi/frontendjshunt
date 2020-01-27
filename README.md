@@ -1,4 +1,4 @@
 ### JSHunt, Front End
 
-## Aplicativo desenvolvido na SemanaOmnistack 10.0
+## Aplicativo desenvolvido no curso Starter da [RocketSeat](https://rocketseat.com.br/)
 ### Atualmente Hosteado no [Heroku](https://semanaosfrontend.herokuapp.com/)
